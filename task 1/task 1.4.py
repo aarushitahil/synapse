@@ -14,3 +14,14 @@ for i in l:
         current_time = i[0] + i[1]
 
 print(f'Average time is {wait_time/n}')  
+
+
+# sample input:
+# Enter number of customers: 4
+# Enter arrival time and order prep time (as space seperated integers with each customer on a new line)
+# 5 2
+# 5 4
+# 10 3
+# 20 1
+# sample output:
+# Average time is 3.25

@@ -53,3 +53,8 @@ request_spending = {
 print(total_spending(request_spending, 'Mahek', 'Creatives'))
 print(account_balance(request_spending, 'Mahek'))
 print(money_owed(request_spending, 'Mahek'))
+
+# sample output:
+# -9000.0
+# 0
+# 1000.0
